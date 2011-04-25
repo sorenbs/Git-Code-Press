@@ -2,13 +2,12 @@ h2. Git Code Press - Blogging that sucks less
 
 Create a github repository and add a post-receive webhook that points to gitcp.com/github
 
-!images/admin.png!
+!http://gitcp.com/images/admin.png!
 
-!images/post-receive.png!
+!http://gitcp.com/images/post-receive.png!
 
 Now push a .textile file. In a moment your blog will be available hot of the press...
 
-For inspiration have a look at some sample "markup":https://github.com/sorenbs/jsgames-articles/raw/master/spritemap-tiles-and-animations.textile and the "result":http://localhost:8080/sorenbs/jsgames-articles/spritemap-tiles-and-animations
-. For any questions turn to the "mailing list":https://groups.google.com/forum/#!forum/git-code-press
+For inspiration have a look at some sample "markup":https://github.com/sorenbs/jsgames-articles/raw/master/spritemap-tiles-and-animations.textile and the "result":http://localhost:8080/sorenbs/jsgames-articles/spritemap-tiles-and-animations . For any questions turn to the "mailing list":https://groups.google.com/forum/#!forum/git-code-press
 
 h2. Code Collections

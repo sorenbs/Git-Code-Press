@@ -46,7 +46,7 @@ table{border:1px solid black}.
 
 An image:
 
-!/common/textist.gif(optional alt text)!
+!textist.gif(optional alt text)!
 
 # Librarians rule
 # Yes they do
